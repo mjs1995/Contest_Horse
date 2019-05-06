@@ -1,4 +1,5 @@
 # 경진대회_경마분석
+-코드는 01~04번 순입니다
 
 # 크롤링
 -한국 마사회 서울경마_경주 성적 : http://race.kra.co.kr/raceScore/ScoretableScoreList.do?Act=04&Sub=1&meet=1
