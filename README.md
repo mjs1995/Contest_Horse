@@ -6,7 +6,7 @@
 -한국 마사회 말혈통 정보 : http://studbook.kra.co.kr/studbook.jsp
 
 # 데이터 탐색
-- seaborn countplot 과 Seaborn heatmap 사용
+- seaborn countplot 과 eaborn heatmap 사용
 - SPSS_카이제곱 검정법 사용
 
 # 데이터 전처리
