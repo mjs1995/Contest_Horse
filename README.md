@@ -2,7 +2,8 @@
 
 # 크롤링
 -한국 마사회 서울경마_경주 성적 : http://race.kra.co.kr/raceScore/ScoretableScoreList.do?Act=04&Sub=1&meet=1
-    -한국 마사회 말혈통 정보 : http://studbook.kra.co.kr/studbook.jsp
+    
+-한국 마사회 말혈통 정보 : http://studbook.kra.co.kr/studbook.jsp
 
 # 데이터 탐색
 - seaborn countplot 과 Seaborn heatmap 사용
