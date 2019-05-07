@@ -9,7 +9,7 @@
 -경마 크롤링 코드 실행 결과는 크롤링 결과 파일에서 경마_크롤링_실행결과.ipynb에서 볼 수 있습니다
 
 # 데이터 탐색
-- seaborn countplot 과 eaborn heatmap 사용
+- seaborn countplot 과 seaborn heatmap 사용
 - SPSS_카이제곱 검정법 사용
 
 # 데이터 전처리
