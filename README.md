@@ -1,5 +1,5 @@
 # 경진대회_경마분석
--코드는 01~04번 순입니다
+-코드는 01~06번 순입니다
 
 # 크롤링
 -한국 마사회 서울경마_경주 성적 : http://race.kra.co.kr/raceScore/ScoretableScoreList.do?Act=04&Sub=1&meet=1
@@ -15,5 +15,7 @@
 # 데이터 전처리
 - Excel 과 Python 사용
 
-# 예측모델 
+# 데이터 분석 
+- 데이터 불균형 문제를 해결하기 위해 클래스 빈도에 반비례하는 가중치를 두고 학습
 - Logistic Regression 과 Random Forest 사용
+ 
